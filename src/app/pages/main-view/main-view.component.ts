@@ -1,9 +1,7 @@
 import { Component, QueryList, ViewChildren } from '@angular/core';
 import {
   CdkDragDrop,
-  CdkDrag,
   CdkDropList,
-  CdkDropListGroup,
   moveItemInArray,
   transferArrayItem,
 } from '@angular/cdk/drag-drop';
